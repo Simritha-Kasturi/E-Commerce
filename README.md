@@ -12,10 +12,8 @@ An interactive e-commerce platform built using HTML, CSS, and JavaScript. Fetch 
 💸 Price Calculation: See total price, discounts, and shipping in real time.
 <br>
 🛑 Order Simulation: Click Place Order for a quick dummy purchase flow.
-<br>
-![Screenshot (657)](https://github.com/user-attachments/assets/c1b403cf-cad2-4b46-8e4f-4f09c1dd49bf)
-<br>
 
+<br>
 *CLONE*
 <br>
 Clone or Download this repo: https://github.com/Simritha-Kasturi/E-Commerce.git
@@ -23,6 +21,9 @@ Clone or Download this repo: https://github.com/Simritha-Kasturi/E-Commerce.git
 => Alternatively, download the .zip file and extract it.
 <br>
 *** Open the index.html file in your preferred web browser. You can simply right-click on the html file and select open with live server option, and it should launch in the default browser.
+<br>
+![Screenshot (657)](https://github.com/user-attachments/assets/c1b403cf-cad2-4b46-8e4f-4f09c1dd49bf)
+<br>
 
 *USAGE*
 <br>
