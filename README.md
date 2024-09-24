@@ -12,6 +12,9 @@ An interactive e-commerce platform built using HTML, CSS, and JavaScript. Fetch 
 💸 Price Calculation: See total price, discounts, and shipping in real time.
 <br>
 🛑 Order Simulation: Click Place Order for a quick dummy purchase flow.
+<br>
+![Screenshot (657)](https://github.com/user-attachments/assets/c1b403cf-cad2-4b46-8e4f-4f09c1dd49bf)
+<br>
 
 *CLONE*
 <br>
