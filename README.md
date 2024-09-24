@@ -1,0 +1,19 @@
+An interactive e-commerce platform built using HTML, CSS, and JavaScript. Fetch products from a fake API, manage a shopping cart, search items, and view real-time price updates!
+
+*Features*
+🔄 Dynamic Product Display: Products fetched from the Fake Store API.
+🛍️ Cart Management: Add, update, or remove products from the cart.
+💸 Price Calculation: See total price, discounts, and shipping in real time.
+🛑 Order Simulation: Click Place Order for a quick dummy purchase flow.
+
+*CLONE*
+Clone or Download this repo:
+=> Alternatively, download the .zip file and extract it.
+*** Open the index.html file in your preferred web browser. You can simply right-click on the html file and select open with live server option, and it should launch in the default browser.
+
+*USAGE*
+Search Products: Use the search bar to filter products by name.
+Add to Cart: Click "Add to Cart" to add items to the cart.
+Update Quantity: Use "+" or "-" to adjust product quantities.
+Remove Items: Click "Remove" to delete an item from the cart.
+Place Order: Click "Place Order" to complete the checkout (for demo purposes).
