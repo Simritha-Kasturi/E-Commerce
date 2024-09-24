@@ -24,8 +24,8 @@ Clone or Download this repo: https://github.com/Simritha-Kasturi/E-Commerce.git
 <br>
 *** Open the index.html file in your preferred web browser. You can simply right-click on the html file and select open with live server option, and it should launch in the default browser.
 
-<br>
-![Screenshot (657)](https://github.com/user-attachments/assets/c1b403cf-cad2-4b46-8e4f-4f09c1dd49bf)
+<br>![Screenshot (657)](https://github.com/user-attachments/assets/4f9bd8be-1452-46c5-8982-d70b650e8da7)
+
 <br>
 
 *USAGE*
