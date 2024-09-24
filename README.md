@@ -3,6 +3,8 @@ An interactive e-commerce platform built using HTML, CSS, and JavaScript. Fetch 
 <br>
 ![Screenshot (656)](https://github.com/user-attachments/assets/0cff2115-45ec-4900-ab43-70bee32a4454)
 <br>
+<br>
+
 *FEATURES*
 <br>
 🔄 Dynamic Product Display: Products fetched from the Fake Store API.
@@ -21,6 +23,7 @@ Clone or Download this repo: https://github.com/Simritha-Kasturi/E-Commerce.git
 => Alternatively, download the .zip file and extract it.
 <br>
 *** Open the index.html file in your preferred web browser. You can simply right-click on the html file and select open with live server option, and it should launch in the default browser.
+
 <br>
 ![Screenshot (657)](https://github.com/user-attachments/assets/c1b403cf-cad2-4b46-8e4f-4f09c1dd49bf)
 <br>
