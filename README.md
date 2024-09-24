@@ -1,6 +1,7 @@
 An interactive e-commerce platform built using HTML, CSS, and JavaScript. Fetch products from a fake API, manage a shopping cart, search items, and view real-time price updates!
 
 *Features*
+<br>
 🔄 Dynamic Product Display: Products fetched from the Fake Store API.
 🛍️ Cart Management: Add, update, or remove products from the cart.
 💸 Price Calculation: See total price, discounts, and shipping in real time.
